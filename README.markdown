@@ -27,14 +27,19 @@ Abra [http://localhost:3000](http://localhost:3000) com o seu navegador
 
 - [Repositório do Next.js no GitHub](https://github.com/vercel/next.js/)
 
+---
+
+<br>
+<br>
+
 ## Vídeo da Rocketseat
 
-<https://www.youtube.com/embed/2LS6rP3ykJk>
+[<img src="print.png" alt="Vídeo aula" />](https://www.youtube.com/embed/2LS6rP3ykJk)
 
 <br>
 <br>
 <br>
-<br>
-<br>
+
+---
 
 [Andrelino Silva](https://github.com/andrelinos)
