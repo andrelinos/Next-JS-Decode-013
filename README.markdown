@@ -29,4 +29,12 @@ Abra [http://localhost:3000](http://localhost:3000) com o seu navegador
 
 ## Vídeo da Rocketseat
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2LS6rP3ykJk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/2LS6rP3ykJk>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+[Andrelino Silva](https://github.com/andrelinos)
